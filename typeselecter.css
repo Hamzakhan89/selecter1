@@ -1,0 +1,12 @@
+
+/* Type-selecter */
+
+/* Single*/
+  /* div{   */
+       /* color: red;   */
+  /* }  */
+
+ /* Multiple */
+  span,h1{  
+      color: red;  
+   }  

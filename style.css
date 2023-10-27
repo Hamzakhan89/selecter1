@@ -1,0 +1,6 @@
+
+
+/* GENERAL SIBLING SELECTER */
+h1~p{
+    color: red;
+}
